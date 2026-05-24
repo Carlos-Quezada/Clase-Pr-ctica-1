@@ -1,2 +1,2 @@
-# Clase-Pr-ctica-1
+# Clase-Practica-1
 Trabajo 1
